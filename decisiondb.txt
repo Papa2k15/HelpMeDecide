@@ -1,0 +1,9 @@
+DecisionDB v. 1.0
+1|Description Title|Decision description|1|01/12/2014|14
+2|COURSE|DORSE|1|06/29/2015|3
+7|Killer|Killer|1|06/30/2015|12
+8|She hates me|Its alright bro|1|06/30/2015|11
+9|Give me Something New|Alright here is what you need to do|1|06/30/2015|6
+10|I really like her|Then do something|1|06/30/2015|5
+11|How do I do something?|I dont know man...thats crazy|1|06/30/2015|4
+12|I really hate myself for letting this happen.|I cant help you bro|1|06/30/2015|2
